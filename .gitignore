@@ -135,4 +135,3 @@ dkms.conf
 
 # Compiled Static libraries
 *.lai
-/aad_3_lab05_1.cbp
